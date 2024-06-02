@@ -1,0 +1,14 @@
+C:\Users\ewel4\source\repos\Lider\Lider\bin\Debug\net6.0\Lider.exe
+C:\Users\ewel4\source\repos\Lider\Lider\bin\Debug\net6.0\Lider.deps.json
+C:\Users\ewel4\source\repos\Lider\Lider\bin\Debug\net6.0\Lider.runtimeconfig.json
+C:\Users\ewel4\source\repos\Lider\Lider\bin\Debug\net6.0\Lider.dll
+C:\Users\ewel4\source\repos\Lider\Lider\bin\Debug\net6.0\Lider.pdb
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.AssemblyInfoInputs.cache
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.AssemblyInfo.cs
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.csproj.CoreCompileInputs.cache
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.dll
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\refint\Lider.dll
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.pdb
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\Lider.genruntimeconfig.cache
+C:\Users\ewel4\source\repos\Lider\Lider\obj\Debug\net6.0\ref\Lider.dll
